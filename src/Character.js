@@ -3,7 +3,7 @@ import React, { useState } from "react"
 
 const Character = () => {
 
-    const player = [
+    const players = [
         {id: 1, name: "スネーク", skill: "射撃" },
         {id: 2, name: "ピカチュウ", skill: "でんこうせっか" },
         {id: 3, name: "ロックマン", skill: "ロックバスター" },
@@ -12,12 +12,12 @@ const Character = () => {
     ]
 
     return (
-            player.map((data, id) =>
+            players.map((data, id) =>
                 <Profile
                     data={data}
                     key={id}
                 />
-                )
+            )
     )
 }
 
