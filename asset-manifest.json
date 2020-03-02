@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-smashBros/static/js/main.017a7042.chunk.js",
+    "main.js.map": "/react-smashBros/static/js/main.017a7042.chunk.js.map",
+    "runtime-main.js": "/react-smashBros/static/js/runtime-main.0340f0cb.js",
+    "runtime-main.js.map": "/react-smashBros/static/js/runtime-main.0340f0cb.js.map",
+    "static/js/2.dae9cc34.chunk.js": "/react-smashBros/static/js/2.dae9cc34.chunk.js",
+    "static/js/2.dae9cc34.chunk.js.map": "/react-smashBros/static/js/2.dae9cc34.chunk.js.map",
+    "index.html": "/react-smashBros/index.html",
+    "precache-manifest.c20ff15d477a1629ddf1f6f3ae53eaf8.js": "/react-smashBros/precache-manifest.c20ff15d477a1629ddf1f6f3ae53eaf8.js",
+    "service-worker.js": "/react-smashBros/service-worker.js",
+    "static/js/2.dae9cc34.chunk.js.LICENSE.txt": "/react-smashBros/static/js/2.dae9cc34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0340f0cb.js",
+    "static/js/2.dae9cc34.chunk.js",
+    "static/js/main.017a7042.chunk.js"
+  ]
+}
